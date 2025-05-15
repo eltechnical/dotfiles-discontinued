@@ -19,12 +19,12 @@
 
   "network": {
     "format-wifi": " {signalStrength}%",
-    "format-ethernet": " {ifname}",
+    "format-ethernet": "󰈀 {ifname}",
     "tooltip": true
   },
 
   "pulseaudio": {
-    "format": " {volume}%",
+    "format": "  {volume}%",
     "tooltip": false
   },
 
