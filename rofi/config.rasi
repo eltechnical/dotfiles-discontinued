@@ -1,11 +1,11 @@
 * {
-  background:         #000000;  /* Dark background */
+  background:         #2E3440;  /* Dark background */
   foreground:         #E0E0E0;  /* Light text */
   selected:           #333333;  /* Selected item background */
   active:             #C4A7E7;  /* Active item color */
   urgent:             #FF5C8D;  /* Urgent item color */
-  border-color:       #333333;  /* Border color */
-  border-radius:      10px;     /* Rounded corners */
+  border-color:       #2E3440;  /* Border color */
+  border-radius:      0px;     /* Rounded corners */
   border:             none;      /* Thin border */
   padding:            10px;     /* Padding inside the window */
   spacing:            5px;      /* Spacing between elements */
@@ -20,14 +20,15 @@ window {
 
 mainbox {
   children: [ inputbar, listview ];
+  background-color:   #2E3440;
   padding: 12px;
   spacing: 10px;
 }
 
 inputbar {
-  background-color:   #000000; /* Dark inputbar */
+  background-color:   #2E3440; /* Dark inputbar */
   padding:            8px;
-  border-radius:      8px;
+  border-radius:      0px;
   border:             none;
 }
 
@@ -39,7 +40,7 @@ listview {
 
 element {
   background-color:   @background;
-  border-radius:      8px;      /* Rounded corners */
+  border-radius:      0px;      /* Rounded corners */
   padding:            6px 0;    /* Reduced padding to make it compact */
   icon-padding:       0;        /* No extra padding around the icon */
   border:             none;     /* No border around elements */
@@ -61,7 +62,7 @@ element urgent {
 }
 
 listview, inputbar {
-  border-radius:      10px;      /* Smooth rounded corners */
+  border-radius:      0px;      /* Smooth rounded corners */
 }
 
 
