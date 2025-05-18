@@ -1,3 +1,4 @@
+© 2025 ELTechnical — Licensed under GPLv3 (see LICENSE)
 
 --Professional version--
 
