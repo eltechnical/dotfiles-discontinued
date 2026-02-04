@@ -1,3 +1,4 @@
+hello this eltechnical from the future
 bro idk why this is vibecoded since its dotfiles even the readme 🥀
 © 2025 ELTechnical — Licensed under GPLv3 (see LICENSE)
 
