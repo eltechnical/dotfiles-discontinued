@@ -1,3 +1,4 @@
+bro idk why this is vibecoded since its dotfiles even the readme 🥀
 © 2025 ELTechnical — Licensed under GPLv3 (see LICENSE)
 
 --Professional version--
